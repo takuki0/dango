@@ -19,5 +19,4 @@ yarn format
 ```
 yarn test
 ```
-qwerty
-qwerty
+kokoko
